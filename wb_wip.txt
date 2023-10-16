@@ -2,7 +2,7 @@
 	"version":"0.5", 
 	"features":
 	[
-	{"model":"fault","name":-Black_Mountain_fault,"dip point":[0,0], 
+	{"model":"fault","name":Black_Mountain_fault,"dip point":[0,0], 
 		"coordinates":[
 [165833.0625, 173051.0], 
 [165133.0, 172049.5], 
@@ -74,7 +74,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Northern_Death_Valley_fault,"dip point":[0,0], 
+	{"model":"fault","name":Northern_Death_Valley_fault,"dip point":[0,0], 
 		"coordinates":[
 [183766.6875, 158098.75], 
 [182734.125, 158745.0], 
@@ -149,7 +149,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Southern_Death_Valley_fault,"dip point":[0,0], 
+	{"model":"fault","name":Southern_Death_Valley_fault,"dip point":[0,0], 
 		"coordinates":[
 [209435.75, 69920.5], 
 [208472.625, 70321.0], 
@@ -189,70 +189,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Casmalia_fault,"dip point":[0,0], 
-		"coordinates":[
-[-150954.4375, -18820.25], 
-[-151795.8125, -17650.0], 
-[-152215.625, -16654.0], 
-[-152703.1875, -15310.25], 
-[-153126.375, -14420.0], 
-[-153626.75, -13447.25], 
-[-154058.0, -12795.25], 
-[-154878.3125, -11811.25], 
-[-155378.375, -11138.0], 
-[-155386.75, -10849.0], 
-[-155345.875, -10481.25], 
-[-155336.6875, -9931.25], 
-[-155302.375, -9636.5], 
-[-155544.875, -9193.75], 
-[-156037.125, -9082.25], 
-[-156288.1875, -8903.0], 
-[-156896.5, -9010.0], 
-[-157087.875, -9083.5], 
-[-157300.0625, -9198.25], 
-[-157701.5, -9332.75], 
-[-158209.8125, -9543.75], 
-[-158676.25, -9564.0], 
-[-159285.5, -9669.0], 
-[-160514.5, -8824.25], 
-[-161141.25, -8430.25], 
-[-161423.25, -8101.5], 
-[-161838.5, -7768.25], 
-[-162201.3125, -7463.25], 
-[-162623.25, -7315.25], 
-[-163102.3125, -7271.25], 
-[-163664.1875, -7304.0], 
-[-164114.625, -7208.0], 
-[-164377.4375, -7092.25], 
-[-165546.5625, -6200.25], 
-[-166834.25, -4906.0], 
-[-167977.125, -4041.25], 
-[-169815.1875, -2487.25], 
-[-170927.0, -1517.25], 
-[-171978.75, -888.75], 
-[-172165.625, -701.0], 
-[-172328.6875, -580.75], 
-[-172578.8125, -402.0], 
-[-172786.4375, -280.25], 
-[-173230.6875, 209.25], 
-[-173596.625, 595.75], 
-[-173857.875, 778.5], 
-[-174085.125, 864.0], 
-[-174606.25, 1036.75], 
-[-175050.4375, 972.75], 
-[-175949.375, 1192.25], 
-[-176923.125, 1547.75], 
-[-178157.375, 2072.25], 
-[-179775.875, 3009.75], 
-[-181937.125, 4302.0], 
-[-182750.125, 4507.0], 
-[-184830.5, 5559.4375], 
-[-187283.25, 6696.75], 
-[-188312.4375, 7500.75]
-],
-		"segments" n stuff go here
-		},
-	{"model":"fault","name":-Owl_Lake_fault,"dip point":[0,0], 
+	{"model":"fault","name":Owl_Lake_fault,"dip point":[0,0], 
 		"coordinates":[
 [187277.8125, 83550.75], 
 [183000.59380000003, 80800.3125], 
@@ -262,7 +199,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Ash_Hill_fault,"dip point":[0,0], 
+	{"model":"fault","name":Ash_Hill_fault,"dip point":[0,0], 
 		"coordinates":[
 [129699.75, 117724.0], 
 [127969.75, 120647.5], 
@@ -284,7 +221,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Airport_Lake_fault,"dip point":[0,0], 
+	{"model":"fault","name":Airport_Lake_fault,"dip point":[0,0], 
 		"coordinates":[
 [87018.6016, 127900.59370000008], 
 [86808.04690000002, 126892.4375], 
@@ -338,7 +275,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Hunter_Mountain_fault,"dip point":[0,0], 
+	{"model":"fault","name":Hunter_Mountain_fault,"dip point":[0,0], 
 		"coordinates":[
 [112480.84370000003, 169082.75], 
 [111979.46879999997, 169041.5], 
@@ -382,7 +319,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Little_Lake_fault,"dip point":[0,0], 
+	{"model":"fault","name":Little_Lake_fault,"dip point":[0,0], 
 		"coordinates":[
 [95519.0625, 69631.9375], 
 [95500.96879999997, 69676.1875], 
@@ -721,7 +658,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Eastern_Little_Lake_north_north_east_cross_fault,"dip point":[0,0], 
+	{"model":"fault","name":Eastern_Little_Lake_north_north_east_cross_fault,"dip point":[0,0], 
 		"coordinates":[
 [88446.40629999997, 105008.1875], 
 [88610.84379999997, 105127.0], 
@@ -736,7 +673,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Owens_Valley_fault,"dip point":[0,0], 
+	{"model":"fault","name":Owens_Valley_fault,"dip point":[0,0], 
 		"coordinates":[
 [63692.65620000003, 170416.25], 
 [63073.8125, 172478.5], 
@@ -773,7 +710,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Panamint_Valley_fault,"dip point":[0,0], 
+	{"model":"fault","name":Panamint_Valley_fault,"dip point":[0,0], 
 		"coordinates":[
 [164297.0625, 70591.75], 
 [160751.65620000003, 74139.0], 
@@ -831,7 +768,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Independence_fault,"dip point":[0,0], 
+	{"model":"fault","name":Independence_fault,"dip point":[0,0], 
 		"coordinates":[
 [57188.75, 170125.25], 
 [55733.65620000003, 170777.5], 
@@ -859,7 +796,7 @@
 ],
 		"segments" n stuff go here
 		},
-	{"model":"fault","name":-Independence_Sierra_Nevada_fault,"dip point":[0,0], 
+	{"model":"fault","name":Independence_Sierra_Nevada_fault,"dip point":[0,0], 
 		"coordinates":[
 [62001.15629999997, 36157.5], 
 [61313.9375, 37289.0], 
