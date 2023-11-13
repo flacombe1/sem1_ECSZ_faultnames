@@ -72,7 +72,15 @@
 [181426.0625, 106961.25], 
 [181284.5, 105415.5]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Northern_Death_Valley_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -147,7 +155,15 @@
 [114861.3125, 234743.0], 
 [97162.71879999997, 257699.5]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Southern_Death_Valley_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -187,7 +203,15 @@
 [183042.625, 103480.5], 
 [181300.0625, 105585.25]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Owl_Lake_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -197,7 +221,15 @@
 [170793.0859, 72305.8125], 
 [166330.96879999997, 70124.0]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Ash_Hill_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -219,7 +251,15 @@
 [117619.15629999997, 145975.75], 
 [117199.375, 147453.5]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Airport_Lake_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -273,7 +313,15 @@
 [86557.57809999998, 87692.15629999992], 
 [86910.4609, 85521.15629999992]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Hunter_Mountain_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -317,7 +365,15 @@
 [73102.03129999997, 206060.5], 
 [70239.375, 216741.25]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Little_Lake_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -656,7 +712,15 @@
 [68200.71879999997, 114666.0], 
 [68134.3125, 114761.1875]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Eastern_Little_Lake_north_north_east_cross_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -671,7 +735,15 @@
 [90834.25, 106736.75], 
 [91379.875, 107131.0]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Owens_Valley_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -708,7 +780,15 @@
 [48123.21879999997, 220296.0], 
 [37149.4375, 251659.5]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Panamint_Valley_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -766,7 +846,15 @@
 [121247.4375, 156968.25], 
 [118464.40629999997, 162161.25]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Independence_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -794,7 +882,15 @@
 [37314.125, 206678.25], 
 [38818.21879999997, 212378.5]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		},
 	{"model":"fault","name":Independence_Sierra_Nevada_fault,"dip point":[0,0], 
 		"coordinates":[
@@ -873,7 +969,15 @@
 [62413.0, 159714.75], 
 [57188.75, 170125.25]
 ],
-		"segments" n stuff go here
+		"segments":
+		[
+			{"length":29000,"thickness":[2000],"angle":[89.9]}
+		],
+		"temperature models":[{"model":"uniform","temperature":273}],
+		"composition models":
+		[
+			{"model":"smooth","compositions":[0,1], "side distance fault center": 1000.0, "center fractions":[0.1,0.1], "side fractions":[0.0,0.0]}
+		]
 		}
 	]
 }
